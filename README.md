@@ -1,5 +1,6 @@
-## Hi there 👋
-
+### Work Experience
+***
+* 코드벡터 웹, 모바일 취약점 진 (2022.10 - )
 <!--
 **gpemtit565/gpemtit565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
